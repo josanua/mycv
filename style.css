@@ -6666,3 +6666,11 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* some custom things */
+.mb-05 {
+    margin-bottom: .5rem !important;
+}
+.mb-1 {
+    margin-bottom: 1rem !important;
+}
