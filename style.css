@@ -6571,7 +6571,8 @@ body {
 }
 
 .theme-skin-dark .footer-social .social li a .rsicon {
-    color: #1c1c1f;
+    /* color: #1c1c1f; */
+    color: #9a9da2;
 }
 
 /**
