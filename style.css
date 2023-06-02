@@ -6,6 +6,7 @@
  *   2.1 - Typography
  *   2.2 - Elements
  *   2.3 - Helper Classes
+            - spacing and margins
  *   2.4 - Icons
  * 3.0 - Form
  * 4.0 - Grid
@@ -521,6 +522,8 @@ p > video {
     position: relative;
     top: -50%;
 }
+
+/* spacing and margins */
 
 /**
  * 2.4 - Icons
